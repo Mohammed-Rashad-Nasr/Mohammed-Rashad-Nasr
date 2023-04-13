@@ -18,4 +18,8 @@ familiar with different types of microcontrollers like ARM , AVR, raspberry pi a
   </a>
 </p>
 
-## github details
+
+## :fire: My Stats :
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Rashad-Nasr" />
+
+
