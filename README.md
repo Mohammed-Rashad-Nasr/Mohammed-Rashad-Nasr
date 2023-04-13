@@ -14,7 +14,6 @@ familiar with different types of microcontrollers like ARM , AVR, raspberry pi a
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=git,py,cpp,c,vim,raspberrypi,arduino,qt" />
-    <img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png" width=90 />
   </a>
 </p>
 
