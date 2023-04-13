@@ -20,7 +20,6 @@ familiar with different types of microcontrollers like ARM , AVR, raspberry pi a
 
 
 ## :fire: My Stats :
-<img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohammed-Rashad-Nasr&theme=dark&background=000000)](https://git.io/streak-stats)
-" />
+<img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohammed-Rashad-Nasr&theme=dark&background=000000)](https://git.io/streak-stats)"/>
 
 
