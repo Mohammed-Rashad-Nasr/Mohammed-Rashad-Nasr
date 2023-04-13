@@ -21,6 +21,6 @@ familiar with different types of microcontrollers like ARM , AVR, raspberry pi a
 
 ## :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohammed-Rashad-Nasr&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohammed-Rashad-Nasr&theme=radical&hide_border=true&mode=daily)](https://git.io/streak-stats)
 
 ![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Rashad-Nasr&show_icons=true&theme=radical&hide_border=true)
