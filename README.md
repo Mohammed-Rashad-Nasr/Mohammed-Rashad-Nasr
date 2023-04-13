@@ -17,3 +17,9 @@ familiar with different types of microcontrollers like ARM , AVR, raspberry pi a
     <img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png" width=90 />
   </a>
 </p>
+
+## github details
+<p><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AliTaima&show_icons=true&locale=en"  alt="AliTaima"  /></p>
+
+
+<p><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=AliTaima&"  alt="AliTaima"  /></p> 
