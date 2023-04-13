@@ -1,6 +1,6 @@
 ## 🛠 languages and tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=git,py,cpp,c,vim" />
   </a>
 </p>
